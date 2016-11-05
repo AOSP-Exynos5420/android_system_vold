@@ -56,7 +56,6 @@ common_libraries := \
 	libdiskconfig \
 	liblogwrap \
 	libf2fs_sparseblock \
-	libcrypto_utils \
 	libselinux \
 	libutils
 
