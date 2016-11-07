@@ -73,6 +73,7 @@ common_shared_libraries := \
 common_static_libraries := \
 	libbootloader_message_writer \
 	libfs_mgr \
+	libmincrypt \
 	libfec \
 	libfec_rs \
 	libext4_utils_static \
